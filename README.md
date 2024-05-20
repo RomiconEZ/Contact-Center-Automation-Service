@@ -57,7 +57,7 @@ Without the need to use third-party services and computing power.
 This is primarily due to the high prices of third-party products.
 
 The project is based on a _micro-service architecture_
-<img src="readme_images/architecture.png" alt="architecture" style="width:100%; max-width:1436px; height:auto;">
+<img src="readme_images/architecture_nc.png" alt="architecture" style="width:100%; max-width:1436px; height:auto;">
 
 There are 4 main services -
 * [Generative Backend](https://github.com/RomiconEZ/GenerativeBackend/tree/dev)
