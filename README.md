@@ -22,6 +22,9 @@
       <a href="#getting-started--начало">Getting Started / Начало</a>
     </li>
     <li>
+      <a href="#demo-video">DEMO Video</a>
+    </li>
+    <li>
    <a href="#contact--контакты">Contact / Контакты</a>
    </li>
   </ol>
@@ -67,6 +70,11 @@ There are 4 main services -
 
 **Main functions of each of the services**
 <img src="readme_images/func_of_service.png" alt="architecture" style="width:100%; max-width:1436px; height:auto;">
+<!-- DEMO VIDEO -->
+## DEMO video
+### Customer Bot
+
+### Agent Bot
 
 <!-- GETTING STARTED -->
 ## Getting Started / Начало
