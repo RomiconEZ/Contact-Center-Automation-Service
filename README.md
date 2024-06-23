@@ -74,7 +74,11 @@ There are 4 main services -
 ## DEMO video
 ### Customer Bot
 
+https://github.com/RomiconEZ/Contact-Center-Automation-Service/assets/94119476/443d4dd8-be11-4c46-b415-36a50cdeb9e0
+
 ### Agent Bot
+
+https://github.com/RomiconEZ/Contact-Center-Automation-Service/assets/94119476/0287a910-79d8-4d88-8392-0a7e2b8fae0a
 
 <!-- GETTING STARTED -->
 ## Getting Started / Начало
